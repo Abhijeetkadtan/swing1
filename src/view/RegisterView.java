@@ -251,3 +251,4 @@ public class RegisterView extends JFrame {
 
 
 }
+//new branchv2 changes
